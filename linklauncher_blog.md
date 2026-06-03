@@ -27,7 +27,7 @@ LinkLauncherは、**「URL」と「アプリ」を同じ画面にタイル形式
     - ※Androidの「不明なアプリのインストール」を許可する必要があります。
 3. **アプリを起動！** 最初は空の状態から始まります。
 
-> **[ここにスクリーンショット：起動直後のメイン画面]**
+<img width="324" height="667" alt="Screenshot_20260604-033019~2" src="https://github.com/user-attachments/assets/9483393f-17c2-4d4f-b481-1229ce8a4629" />
 
 ---
 
@@ -46,7 +46,7 @@ LinkLauncherは、**「URL」と「アプリ」を同じ画面にタイル形式
 - **ラベル：** タイルに表示する名前を決めます。
 - **カラー：** 25色のパレットから、直感的に好きな色を選べます。
 
-> **[ここにスクリーンショット：タイル作成画面（色の選択パレットが見える状態）]**
+<img width="324" height="512" alt="Screenshot_20260604-033127~2" src="https://github.com/user-attachments/assets/103b99ef-0087-40d0-bc07-051de09735d2" />
 
 ### 手順④：保存！
 「Save」を押すと、メイン画面に綺麗なタイルが表示されます。
@@ -64,7 +64,7 @@ LinkLauncherは、**「URL」と「アプリ」を同じ画面にタイル形式
 2. **Export Config to File** で現在の設定をJSONファイルとして保存。
 3. 新しいスマホで **Import Config from File** を選べば一瞬で元通りです。
 
-> **[ここにスクリーンショット：Settingsダイアログの画面]**
+<img width="324" height="388" alt="Screenshot_20260604-033154~2" src="https://github.com/user-attachments/assets/53bf9cb8-7352-44f9-a6e2-12aa4d124e02" />
 
 ---
 
